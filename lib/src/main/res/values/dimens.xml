@@ -1,19 +1,19 @@
 <resources>
 
     <!-- 标题栏高度 -->
-    <dimen name="lib_title_height_title_bar">@dimen/res_px_47</dimen>
+    <dimen name="lib_title_height_title_bar">@dimen/qb_px_47</dimen>
 
     <!-- 标题栏文字大小 -->
     <dimen name="lib_title_text_title_bar">18sp</dimen>
     <!-- 标题栏较小的文字大小 -->
-    <dimen name="lib_title_text_title_bar_sub">@dimen/res_text_l</dimen>
+    <dimen name="lib_title_text_title_bar_sub">16sp</dimen>
 
     <!-- 标题栏item的最小宽度 -->
-    <dimen name="lib_title_width_title_bar_item">@dimen/res_px_42</dimen>
+    <dimen name="lib_title_width_title_bar_item">@dimen/qb_px_42</dimen>
 
     <!-- 标题栏icon图标的宽度 -->
-    <dimen name="lib_title_width_title_bar_item_image">@dimen/res_px_21</dimen>
+    <dimen name="lib_title_width_title_bar_item_image">@dimen/qb_px_21</dimen>
     <!-- 标题栏icon图标的高度 -->
-    <dimen name="lib_title_height_title_bar_item_image">@dimen/res_px_21</dimen>
+    <dimen name="lib_title_height_title_bar_item_image">@dimen/qb_px_21</dimen>
 
 </resources>

@@ -7,13 +7,13 @@
 
     <!-- 标题栏文字 -->
     <style name="lib_title_text_title_bar" parent="lib_title_text_title_bar_base">
-        <item name="android:textColor">@color/white</item>
+        <item name="android:textColor">@color/lib_title_text_title_bar</item>
         <item name="android:textSize">@dimen/lib_title_text_title_bar</item>
     </style>
 
     <!-- 标题栏较小文字 -->
     <style name="lib_title_text_title_bar_sub" parent="lib_title_text_title_bar_base">
-        <item name="android:textColor">@color/white</item>
+        <item name="android:textColor">@color/lib_title_text_title_bar_sub</item>
         <item name="android:textSize">@dimen/lib_title_text_title_bar_sub</item>
     </style>
 
