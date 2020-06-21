@@ -11,7 +11,7 @@
     <ImageView
         android:id="@+id/lib_title_iv_left"
         android:layout_width="@dimen/lib_title_width_title_bar_item_image"
-        android:layout_height="@dimen/lib_title_height_title_bar_item_image" />
+        android:layout_height="@dimen/lib_title_height_title_bar_item_image"/>
 
     <LinearLayout
         android:id="@+id/lib_title_ll_text"
@@ -26,7 +26,8 @@
             style="@style/lib_title_text_title_bar"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="top" />
+            android:text="top"
+            android:textStyle="bold"/>
 
         <TextView
             android:id="@+id/lib_title_tv_bottom"
@@ -39,6 +40,6 @@
     <ImageView
         android:id="@+id/lib_title_iv_right"
         android:layout_width="@dimen/lib_title_width_title_bar_item_image"
-        android:layout_height="@dimen/lib_title_height_title_bar_item_image" />
+        android:layout_height="@dimen/lib_title_height_title_bar_item_image"/>
 
 </LinearLayout>
